@@ -1,7 +1,3 @@
-#### Netlify Frontend URL Link : https://best-readers.netlify.app/
+### Live Link: https://the-book-catalog.netlify.app/
 
-#### Vercel Production URL Link : https://best-readers-iammhador.vercel.app/
-
-#### Github Frontend Code Link : https://github.com/iammhador/Book-Category-Frontend
-
-#### Github Backend Code Link : https://github.com/iammhador/Book-Category-Backend
+### Front End Github Link: https://github.com/moshiur01/book-catalog-client
